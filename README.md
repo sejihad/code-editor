@@ -1,8 +1,19 @@
-# React + Vite
+# Simple Code Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple code editor built with React.js that allows users to write and preview HTML, CSS, and JavaScript code. It is designed for quick coding and testing, with live preview functionality.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Real-time Code Preview**: See your changes instantly in the preview pane.
+- **HTML, CSS, and JavaScript Support**: Write and test web code in a single interface.
+- **Responsive Design**: Mobile-friendly layout for coding on different devices.
+- **Separate Editors**: Dedicated sections for HTML, CSS, and JavaScript code.
+- **Live Preview**: Automatically renders the output based on the code input.
+
+## Technologies Used
+
+- **React.js**: Frontend framework for building the editor UI.
+- **HTML, CSS, JavaScript**: Core web technologies for content rendering.
+- **CSS**: For styling the editor layout and preview pane.
+  
+![Homepage Screenshot](homepage.png)
